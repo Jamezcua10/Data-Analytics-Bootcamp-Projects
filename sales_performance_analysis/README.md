@@ -6,3 +6,4 @@ The data includes two datasets. The retail dataset contains purchase information
 The folder contains a p2p presentation summarizing main analysis results. 
 
 Dashboard can be viewed by accessing this link: 
+https://public.tableau.com/app/profile/james.amezcua/viz/Reportonhomeworldstoresperformance_16439872266850/Dailypurchase?publish=yes
