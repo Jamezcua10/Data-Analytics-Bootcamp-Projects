@@ -1,7 +1,7 @@
 
-# Yandex Practicum projects
+# TripleTen projects
 
-Projects from Practicum's Data Analyst professional training program
+Projects from Practicum's(now known as TripleTen) Data Analyst professional training program
 
 | Project name | Description | Main libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
